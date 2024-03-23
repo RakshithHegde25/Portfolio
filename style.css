@@ -1,0 +1,19 @@
+body {
+  font-family: Truculenta;
+  font-size: x-large;
+  background-color: grey;
+}
+.navbar-nav {
+  position: relative;
+  left: 62rem;
+}
+.nav-item {
+  margin-left: 50px;
+}
+.navbar-brand {
+  margin-left: 20px;
+}
+.nav-item:hover {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
