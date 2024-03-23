@@ -17,3 +17,16 @@ body {
   text-decoration: underline;
   text-decoration-color: white;
 }
+a {
+  text-decoration: none;
+}
+.empty > ul {
+  list-style: none;
+}
+.empty > li {
+  display: inline;
+  margin: 3vh;
+}
+.fa-brands:hover {
+  opacity: 60%;
+}
