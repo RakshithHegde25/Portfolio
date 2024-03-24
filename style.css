@@ -67,7 +67,7 @@ a {
     width: 30vh;
   }
 }
-@media screen and (max-width: 458px) {
+@media screen and (max-width: 550px) {
   #pfp {
     width: 25vh;
   }
