@@ -58,4 +58,22 @@ a {
   body {
     font-size: 2.5vh !important;
   }
+  #pfp {
+    width: 35vh;
+  }
+}
+@media screen and (max-width: 522px) {
+  #pfp {
+    width: 30vh;
+  }
+}
+@media screen and (max-width: 458px) {
+  #pfp {
+    width: 25vh;
+  }
+}
+@media screen and (max-width: 400px) {
+  #pfp {
+    width: 20vh;
+  }
 }
